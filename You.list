@@ -1,0 +1,6 @@
+# 内容：YouTube
+# 数量：186条
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,com.google.ios.youtube*
+DOMAIN-KEYWORD,youtube
