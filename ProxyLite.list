@@ -57,6 +57,7 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
 # 自己的规则列表
+DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-KEYWORD,speedtest
