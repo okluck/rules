@@ -2,8 +2,8 @@
 
 # 自己的规则列表
 DOMAIN-SUFFIX,speed.cloudflare.com
-DOMAIN-SUFFIX,speed.dler.io
-DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,speedtest.net
 DOMAIN-KEYWORD,mifengcha
 DOMAIN-KEYWORD,fragment
 DOMAIN-KEYWORD,wjh520
